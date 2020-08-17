@@ -1,2 +1,2 @@
 # LoL-Data-Analysis-
-data analysis on korean challenger ranked league of legends games 
+Determining the best champion to play at High Elo
